@@ -13,4 +13,19 @@
       <img src="./assets/DreamShaper_v7_A_neural_network_named_GLU3D_generates_3d_latti_0.jpg" alt="GLU3D" width="800"/>
     </td>
   </tr>
+
+<tr>
+    <td colspan="2">
+    <h2>Overview:</h2>
+    </td>
+    </tr>
+    <tr>
+    <td colspan="2">
+    <img src="./assets/overview_1.png">
+    </td>
+    </tr>
+
+
+
+
 </table>
