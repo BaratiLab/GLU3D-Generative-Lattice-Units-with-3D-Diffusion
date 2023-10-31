@@ -10,6 +10,6 @@ Architected materials, exhibiting unique mechanical properties derived from thei
 </td>
 <td>
 
-<img src="./assets/DreamShaper_v7_A_neural_network_named_GLU3D_generates_3d_latti_0.jpg" alt="GLU3D" width="10000">
+<img src="./assets/DreamShaper_v7_A_neural_network_named_GLU3D_generates_3d_latti_0.jpg" alt="GLU3D" width="100000">
 
 
