@@ -25,6 +25,8 @@
     </td>
     </tr>
 
+
+
 <tr>
     <td colspan="2">
     <h2>Dataset:</h2>
@@ -37,6 +39,25 @@
     </tr>
 
 
+<tr>
+    <td colspan="2">
+      <h2>Cite us:</h2>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <blockquote>
+        @article{jadhav2024generative,<br>
+        &nbsp;&nbsp;&nbsp;title={Generative Lattice Units with 3D Diffusion for Inverse Design: GLU3D},<br>
+        &nbsp;&nbsp;&nbsp;author={Jadhav, Yayati and Berthel, Joeseph and Hu, Chunshan and Panat, Rahul and Beuth, Jack and Barati Farimani, Amir},<br>
+        &nbsp;&nbsp;&nbsp;journal={Advanced Functional Materials},<br>
+        &nbsp;&nbsp;&nbsp;pages={2404165},<br>
+        &nbsp;&nbsp;&nbsp;year={2024},<br>
+        &nbsp;&nbsp;&nbsp;publisher={Wiley Online Library}<br>
+      }
+      </blockquote>
+    </td>
+  </tr>
 
 
 </table>
