@@ -8,6 +8,7 @@
    <tr>
     <td colspan="2">
       <h2>CODE COMING SOON</h1>
+      Note: Please contact at yayati.cmu.@gmail.com if you need the code/weights urgently. 
     </td>
   </tr>
 
